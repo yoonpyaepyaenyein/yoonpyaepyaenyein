@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yoon Pyae Pyae Nyein</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
-
 - 🔭 I’m currently working on **Nine Complex**
 
 - 🌱 I’m currently learning **React Native**
